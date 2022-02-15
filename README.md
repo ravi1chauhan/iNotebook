@@ -1,6 +1,6 @@
 # iNotebook
 iNotebook - Your notes secured in the cloud<br/>
-This iNotebook Project in ReactJs created based on ReactJS, NodeJS, ExpressJS and MongoDB Database.
+This iNotebook Project in ReactJs using Context API, created based on ReactJS, NodeJS, ExpressJS and MongoDB Database.
 The iNotebook is an all-encompassing that is used to Create Personal Notes, manage Login, manage Signup, manage Name, Email & Password.
 
 # Demonstration of my Project
